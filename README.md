@@ -102,7 +102,9 @@ Generative AI is powered by specific neural network architectures that allow mac
 Generative Adversarial Networks (GANs): A GAN consists of a generator that creates synthetic data and a discriminator that evaluates it against real data. Through this adversarial process, the generator continuously improves, eventually producing highly realistic content, such as deepfake images or digital art.
 
 Variational Autoencoders (VAEs): VAEs work by encoding input data into a compressed latent space and then decoding it to generate new variations. This design allows for controlled creativity, making VAEs particularly useful for generating images, music, and even molecular structures for drug discovery.
-![Uploading 448831177-a9c7c2d8-89e9-4b9e-a065-8120bca9a8e4.png…]()
+
+<img width="685" height="651" alt="arc" src="https://github.com/user-attachments/assets/d5c238e9-6da2-4062-8550-6d3665b71f62" />
+
 
 ## Transformers 
 
