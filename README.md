@@ -1,6 +1,7 @@
-<img width="590" height="520" alt="448820244-9f2907fd-3709-4175-bf0c-d709bfc4decb" src="https://github.com/user-attachments/assets/3e63d5ee-4438-4b97-a865-974446c3e6f3" /># Ex.No.1 COMPREHENSIVE REPORT ON THE FUNDAMENTALS OF GENERATIVE AI AND LARGE LANGUAGE MODELS (LLMS)
+## Ex.No.1 COMPREHENSIVE REPORT ON THE FUNDAMENTALS OF GENERATIVE AI AND LARGE LANGUAGE MODELS (LLMS)
 
-# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# Aim:	
+## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 Experiment:
 
@@ -105,22 +106,27 @@ Introduced in the 2017 paper "Attention Is All You Need," Transformers are based
 
 Transformers have enabled LLMs to scale to billions of parameters, allowing them to not only generate coherent text but also translate languages, summarize documents, and even write computer code. The success of Transformers has also extended beyond text, powering multimodal systems like DALL·E (text-to-image) and Whisper (speech recognition).
 
+<img width="807" height="507" alt="image" src="https://github.com/user-attachments/assets/7954b4ca-801c-4391-9006-17884191cd2b" />
 
 
 ## Generative AI Applications
 
-Generative AI is being applied across numerous fields, revolutionizing how we create content, interact with technology, and conduct research.
+Generative AI is being applied across numerous fields, revolutionizing how we create content, interact with technology, and conduct research.Software development and application modernization Code generation tools can automate and accelerate the process of writing new code. Code generation also has the potential to dramatically accelerate application modernization by automating much of the repetitive coding required to modernize legacy applications for hybrid cloud environments. Digital labor Generative AI can quickly draw up or revise contracts, invoices, bills and other digital or physical ‘paperwork’ so that employees who use or manage it can focus on higher level tasks. This can accelerate workflows in virtually every enterprise area including human resources, legal, procurement and finance. Science, engineering and research Generative AI models can help scientists and engineers propose novel solutions to complex problems. In healthcare, for example, generative models can be applied to synthesize medical images for training and testing medical imaging systems.
 
-1.Text and Language:
+## 1.Text and Language:
+
 Generative AI powers conversational chatbots (like ChatGPT), virtual assistants, and automated content creation for blogs, reports, and marketing copy. It also excels at text summarization, translation, and code generation through tools such as GitHub Copilot.
 
-2.Image and Video: 
+## 2.Image and Video: 
+
 In the creative domain, tools like DALL·E and Stable Diffusion generate high-quality digital art and images from text descriptions. It is also used for video synthesis, character design, and product visualization.
 
-3.Healthcare: 
+## 3.Healthcare: 
+
 Generative AI is accelerating drug discovery and molecular design. Models like AlphaFold have transformed protein structure prediction, and synthetic medical images are being used to train diagnostic systems.
 
-4.Education: 
+## 4.Education: 
+
 Generative AI provides personalized learning experiences by creating quizzes, study notes, and summaries. It also powers virtual tutors that can explain complex concepts and support language learning.
 
 5.Healthcare: 
@@ -130,6 +136,8 @@ Generative AI is accelerating drug discovery and molecular design. Models like A
 Businesses leverage Generative AI to create personalized advertisements, branding content, and logos. It also provides market trend insights and enhances customer interaction through AI-driven communication tools.
 
 
+<img width="802" height="400" alt="image" src="https://github.com/user-attachments/assets/5a58f0b3-931f-46de-a3fb-dc0a15fed346" />
+
 
 ## Large Language Models(LLMs)
 
@@ -138,6 +146,13 @@ Large language models (LLMs) are a category of foundation models trained on imme
 
 <img width="862" height="670" alt="image" src="https://github.com/user-attachments/assets/7c268fa7-78ba-4290-bdf3-06b90aac0a7e" />
 
+During the training process, these models learn to predict the next word in a sentence based on the context provided by the preceding words. The model does this through attributing a probability score to the recurrence of words that have been tokenized, broken down into smaller sequences of characters. These tokens are then transformed into embeddings, which are numeric representations of this context. To ensure accuracy, this process involves training the LLM on a massive corpora of text (in the billions of pages), allowing it to learn grammar, semantics and conceptual relationships through zero-shot and self-supervised learning. Once trained on this training data, LLMs can generate text by autonomously predicting the next word based on the input they receive, and drawing on the patterns and knowledge they've acquired. The result is coherent and contextually relevant language generation that can be harnessed for a wide range of NLU and content generation tasks. 
+
+## LLM use cases :
+
+LLMs are redefining an increasing number of business processes and have proven their versatility across a myriad of use cases and tasks in various industries. They augment conversational AI in chatbots and virtual assistants (like IBM watsonx Assistant and Google’s BARD) to enhance the interactions that underpin excellence in customer care, providing context-aware responses that mimic interactions with human agents. LLMs also excel in content generation, automating content creation for blog articles, marketing or sales materials and other writing tasks. In research and academia, they aid in summarizing and extracting information from vast datasets, accelerating knowledge discovery. 
+
+LLMs also play a vital role in language translation, breaking down language barriers by providing accurate and contextually relevant translations. They can even be used to write code, or “translate” between programming languages. Moreover, they contribute to accessibility by assisting individuals with disabilities, including text-to-speech applications and generating content in accessible formats. From healthcare to finance, LLMs are transforming industries by streamlining processes, improving customer experiences and enabling more efficient and data-driven decision making. Most excitingly, all of these capabilities are easy to access, in some cases literally an API integration away.
 
 ## Impact of Scaling in LLMs
 
@@ -149,7 +164,8 @@ The growth of LLMs comes with a steep price. Training models with billions (or e
 
 ## Future Trends 
 
-Research into scaling laws suggests that model performance continues to improve predictably as compute power, data, and parameters increase. This indicates that even larger models will likely achieve new breakthroughs. However, future advancements will require balancing scale with efficiency through innovations like model compression and more efficient training methods. While scaling may bring us closer to Artificial General Intelligence (AGI), responsible deployment will remain a critical challenge.
+Future research must focus on improving efficiency through model compression and training optimization to reduce costs and make LLMs more widely accessible. Hybrid models that combine symbolic reasoning with neural architectures may enhance explainability and trustworthiness. DResearch into scaling laws suggests that model performance continues to improve predictably as compute power, data, and parameters increase. This indicates that even larger models will likely achieve new breakthroughs. However, future advancements will require balancing scale with efficiency through innovations like model compression and more efficient training methods. While scaling may bring us closer to Artificial General Intelligence (AGI), responsible deployment will remain a critical challenge.
+
 # Result
 
 A comprehensive report on the fundamentals of Generative AI and Large Language Models (LLMs) was successfully developed, covering their concepts, architectures, applications, limitations, and future trends.
